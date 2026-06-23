@@ -1,2 +1,22 @@
 # frontend-portfolio-study
-Projeto de estudo focado no desenvolvimento de um portfólio pessoal utilizando HTML e CSS. Criado para aprimorar habilidades em estruturação de páginas, design responsivo e boas práticas de desenvolvimento Front-End.
+## Personal Portfolio
+
+Projeto de portfólio pessoal desenvolvido com HTML e CSS durante meus estudos de Desenvolvimento Front-End.
+
+## Objetivo
+Criar uma página profissional para apresentar habilidades, projetos e experiências, de um profissional, enquanto pratico conceitos fundamentais de desenvolvimento web.
+
+## Tecnologias Utilizadas
+- HTML5
+- CSS3
+
+## Conceitos Praticados
+- HTML semântico
+- Flexbox
+- Responsividade
+- Organização de componentes
+- Design moderno
+- Boas práticas de CSS
+
+## Status
+Projeto desenvolvido para fins de estudo e aperfeiçoamento profissional.
